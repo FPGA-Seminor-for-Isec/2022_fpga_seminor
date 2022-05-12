@@ -1,0 +1,9 @@
+db/
+increamental_db/
+output_files/
+simulation/
+*.qpf
+*.qsf
+*.qws
+*.bak
+*.rpt
