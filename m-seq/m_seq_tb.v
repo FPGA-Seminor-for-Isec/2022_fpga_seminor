@@ -28,7 +28,7 @@ always begin
     #10
     seed = 1;
     $display("seed = %010b", seed);
-    $display("f(x) = x^20 + x^3 + 1");
+    $display("f(x) = x^10 + x^3 + 1");
     #10
     rst = 0;
     $display("rst = %d", rst);
