@@ -2,7 +2,7 @@ module adder(
    input clk,
 	input [4:0]  a, // 5bit
 	input [4:0]  b, // 5bit
-	output [5:0] out, // 6bit
+	output [5:0] out // 6bit
 );
 
 wire [3:0] carry;
